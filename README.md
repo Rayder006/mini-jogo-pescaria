@@ -12,7 +12,11 @@ utilizada uma Abordagem Orientada a Objetos para facilitar o encapsulamento de d
 em desenvolvimento de jogos).
 
 As variáveis padrão do jogo (como a qtd. de peixes, tamanho da bolha, etc) podem ser facilmente alteradas mudando as constantes nas primeiras
-linhas do arquivo pescaria.js. Por fim, a velocidade do jogo pode ser alterada dinâmicamente utilizando o slider no topo da tela.
+linhas do arquivo pescaria.js. Por fim, a velocidade do jogo pode ser alterada dinâmicamente utilizando o slider no topo da tela. O
+botão "Pausar"/"Jogar" obviamente pausa/da play do jogo, enquanto que o botão "Passo", ativo somente quando o jogo está pausado, avança 
+um frame de jogo.
+<img width="295" height="74" alt="image" src="https://github.com/user-attachments/assets/30c3c687-4de9-4ca5-a9ae-2fb65a14c635" />
+
 
 Este projeto foi feito em uma bateria contínua de implementação de aprox. 8 horas. Durante o desenvolvimento diversas lógicas de implementação
 foram mudadas. Alguns exemplos a seguir: 
