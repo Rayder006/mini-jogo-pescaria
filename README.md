@@ -15,6 +15,7 @@ As variáveis padrão do jogo (como a qtd. de peixes, tamanho da bolha, etc) pod
 linhas do arquivo pescaria.js. Por fim, a velocidade do jogo pode ser alterada dinâmicamente utilizando o slider no topo da tela. O
 botão "Pausar"/"Jogar" obviamente pausa/da play do jogo, enquanto que o botão "Passo", ativo somente quando o jogo está pausado, avança 
 um frame de jogo.
+
 <img width="295" height="74" alt="image" src="https://github.com/user-attachments/assets/30c3c687-4de9-4ca5-a9ae-2fb65a14c635" />
 
 
